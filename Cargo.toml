@@ -1,0 +1,10 @@
+[package]
+name = "lcd-rus"
+version = "0.1.0"
+edition = "2024"
+authors = ["Eri the Switch"]
+description = "A library for using UTF-8 strings/literals with LCDs with Russian support"
+license = "MIT"
+repository = "https://github.com/v1993/lcd-rus"
+keywords = ["lcd", "liquidcrystal", "HD44780", "russian"]
+categories = ["embedded", "hardware-support", "no-std"]
